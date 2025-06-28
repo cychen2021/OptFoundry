@@ -14,5 +14,11 @@
         "**/.project": true,
         "**/.settings": true,
         "**/.factorypath": true
-    }
+    },
+    "github.copilot.chat.commitMessageGeneration.instructions": [{
+        "file": ".copilot-commit-message-instructions.md"
+    }],
+    "github.copilot.chat.codeGeneration.instructions": [{
+        "file": ".copilot-codeGeneration-instructions.md"
+    }]
 }
